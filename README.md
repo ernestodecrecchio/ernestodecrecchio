@@ -10,6 +10,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/palant-dev/palant-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ITASerus&style=flat-square&color=blue" alt=""></p>
+
+
 # Who am I
 
 <p>I'm a dedicated and passionate software engineer with a strong background in mobile development. I have a deep understanding of the mobile ecosystem and enjoy working on challenging projects that require creative solutions. My problem-solving skills are honed towards software design, architectures and debugging to deliver high quality solutions that meet user needs and business goals.
