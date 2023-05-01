@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1Twi2QIMwUKB_trcudvQXhv8pR8Xf2q4i/view?usp=sharingL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="My CV"/>
+    <img src="https://img.shields.io/badge/My%20CV-green?style=for-the-badge" alt="My CV"/>
   </a>
 </div>
 
