@@ -9,11 +9,11 @@
   </div>
   
   <p align="center"><img src="https://komarev.com/ghpvc/?username=ITASerus&style=flat-square&color=blue" alt=""></p>
-  
+ 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/ITASerus/ITASerus/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/ITASerus/ITASerus/blob/output/github-snake-dark.svg" />
   </picture>
   
   <h1>
