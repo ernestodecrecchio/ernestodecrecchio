@@ -9,12 +9,6 @@
   </div>
   
   <p align="center"><img src="https://komarev.com/ghpvc/?username=ITASerus&style=flat-square&color=blue" alt=""></p>
- 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ITASerus/ITASerus/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/ITASerus/ITASerus/blob/output/github-snake.svg" />
-  </picture>
   
   <h1>
     hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
