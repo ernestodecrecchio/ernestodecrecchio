@@ -21,13 +21,6 @@
 - In my free time I love to go hiking with my dog :dog: and code personal project
 - :mailbox: [Contact me](https://www.linkedin.com/in/ernesto-de-crecchio/) to get an updated resume
 
----
-
-### ⌨️ Currently working on
-I'm currently developing a mobile app that lets you track your income and expenses with ease. View stats, group data, and enjoy other handy features. Stay tuned for more updates!
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 Swift
 Dart
