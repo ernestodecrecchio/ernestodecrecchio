@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/ernesto-de-crecchio/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://drive.google.com/file/d/1rS-FuvZDUdNZk9cGuuhjVLLHxmYyF9td/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1I7stiHkKwtHdlR-RTjFluqyzY3cHTCYy/view?usp=sharing">
       <img src="https://img.shields.io/badge/My%20CV-green?style=for-the-badge" alt="My CV"/>
     </a>
   </div>
